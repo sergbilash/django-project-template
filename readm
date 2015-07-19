@@ -3,5 +3,5 @@ git push -u origin master
 
 for test git:
 1. test 1 passed 17-07-15 15-32
-2. test 2 !not passed!
+2. test 2 passed 19-07-15 21:47
 
